@@ -1,0 +1,1 @@
+CREATE TABLE "life_pattern" ( `date` INTEGER NOT NULL, `milk` INTEGER, `burp` INTEGER, `pee` INTEGER, `feces` INTEGER, `bath` INTEGER, `cream` INTEGER, `height` TEXT, `weight` TEXT, `desc` TEXT, PRIMARY KEY(`date`) )
